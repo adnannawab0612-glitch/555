@@ -1,0 +1,8 @@
+{
+  "name": "Nexora",
+  "description": "A world-class event and conference platform for knowledge exchange and collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
